@@ -1,0 +1,11 @@
+Removed Member From Class: ClassName=手动分控1.0 Member=Q8
+Change Component Designator: OldDesignator=Q1 NewDesignator=Q2
+Change Component Designator: OldDesignator=Q2 NewDesignator=Q3
+Change Component Designator: OldDesignator=Q3 NewDesignator=Q4
+Change Component Designator: OldDesignator=Q4 NewDesignator=Q5
+Change Component Designator: OldDesignator=Q5 NewDesignator=Q6
+Change Component Designator: OldDesignator=Q6 NewDesignator=Q7
+Change Component Designator: OldDesignator=Q7 NewDesignator=Q0
+Change Component Designator: OldDesignator=Q8 NewDesignator=Q1
+Added Member To Class: ClassName=手动分控1.0 Member=Component Q7 MOSFET N
+Added Member To Class: ClassName=手动分控1.0 Member=Component R27 1kΩ
